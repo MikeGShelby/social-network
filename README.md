@@ -1,13 +1,13 @@
-# Pizza Hunt
+# Social Network Application
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description and Purpose
-A web application for creating and commenting on pizzas!
+A social networking application that performs CRUD methods for users, thoughts, reactions, and replies.
 
 ## Table of Contents
   - [Description and Purpose](#description-and-purpose)
   - [Application Screenshot](#application-screenshot)
-  - [Deployed Application](#deployed-application)
+  - [Demo Videos](#demo-videos)
   - [Built With](#built-with)
   - [License](#license)
   - [Contributing](#contributing)
@@ -15,22 +15,16 @@ A web application for creating and commenting on pizzas!
   - [Questions](#questions)
 
 ## Application Screenshot
-![Pizza Hunt screenshot](./public/assets/images/pizza-hunt-screenshot.jpg "Application Screenshot")
+![Social Network Application screenshot](./public/assets/images/social-network-screenshot.jpg "Application Screenshot")
 
-## Deployed Application
-https://pizza-hunt-0.herokuapp.com/
+## Demo Videos
+???
 
 ## Built With
-* JavaScript
 * Node.js
 * Express.js
 * MongoDB
 * Mongoose
-* HTML
-* CSS
-* Heroku
-* MongoDB Atlas
-
 ## License
 MIT License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
