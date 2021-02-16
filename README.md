@@ -15,10 +15,19 @@ A social networking application that performs CRUD methods for users, thoughts, 
   - [Questions](#questions)
 
 ## Application Screenshot
-![Social Network Application screenshot](./public/assets/images/social-network-screenshot.jpg "Application Screenshot")
+![Social Network Application screenshot](./public/images/social-network-screenshot.jpg "Application Screenshot")
 
 ## Demo Videos
-???
+###[Demo Video 1](https://drive.google.com/file/d/1pd4g2x32z3jpd3L3NDLBoxUqQYISgAMz/view)
+* Starting application server
+* User Routes: POST, GET all, GET by id, PUT, DELETE
+
+###[Demo Video 2](https://drive.google.com/file/d/1fTB4Rg_n31gPZBct10gIbFFD6l6HA4_j/view)
+* Thoughts Routes: POST, GET all, GET by id, PUT, DELETE
+
+###[Demo Video 3](https://drive.google.com/file/d/1Sr_Bi0SUgntdFgc4ZzMhe0CpOZXHtQ6b/view)
+* Friends Routes: POST, DELETE
+* Reaction Routes: POST, DELETE
 
 ## Built With
 * Node.js
