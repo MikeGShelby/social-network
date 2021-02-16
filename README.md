@@ -18,14 +18,15 @@ A social networking application that performs CRUD methods for users, thoughts, 
 ![Social Network Application screenshot](./public/images/social-network-screenshot.jpg "Application Screenshot")
 
 ## Demo Videos
-###[Demo Video 1](https://drive.google.com/file/d/1pd4g2x32z3jpd3L3NDLBoxUqQYISgAMz/view)
+###[Demo Video 1](https://drive.google.com/file/d/1npmcD_MVELoZGa34DEwL2FB5gnztNJMB/view?usp=sharing)
 * Starting application server
 * User Routes: POST, GET all, GET by id, PUT, DELETE
 
-###[Demo Video 2](https://drive.google.com/file/d/1fTB4Rg_n31gPZBct10gIbFFD6l6HA4_j/view)
+
+###[Demo Video 2](https://drive.google.com/file/d/1AtSKuMzq03dPCvKk8eSPnIV_YwH08eNO/view?usp=sharing)
 * Thoughts Routes: POST, GET all, GET by id, PUT, DELETE
 
-###[Demo Video 3](https://drive.google.com/file/d/1Sr_Bi0SUgntdFgc4ZzMhe0CpOZXHtQ6b/view)
+###[Demo Video 3](https://drive.google.com/file/d/16shqc_-yYRTr4lul6Jz1Dpy3sYEX9ML_/view?usp=sharing)
 * Friends Routes: POST, DELETE
 * Reaction Routes: POST, DELETE
 
